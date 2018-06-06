@@ -1,0 +1,87 @@
+#logo
+{
+  height:92px;
+  position:fixed;
+  top: 50%;
+  left:50%;
+margin-top: -120px;
+margin-left: -140px;
+
+
+}
+#search-area
+{
+  position:absolute;
+  top:50%;
+  left: 30%;
+  width: 40%;
+  height: 2em;
+}
+.Btn
+{
+  position:absolute;
+  top:60%;
+  padding:5px;
+  width: 8em;
+
+  background-color: rgb(244,244,244);
+  text-align:center;
+  color: rgb(117, 117, 136);
+}
+#Google-search
+{
+  left: 38%;
+}
+#Lucky
+{
+left: 50%;
+}
+div.Btn:hover
+{
+  border: solid 1px rgb(198, 198, 198);
+  color: #000;
+}
+#lang-p
+{
+  position:absolute;
+  top:65%;
+  left: 30%;
+
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(242,242,242);
+    color: rgb(117, 117, 136);
+}
+
+#first-div
+{
+  padding:10px;
+  padding-left: 15px;
+  text-align:left;
+  border: solid 1px rgb(198, 198, 198);
+}
+
+#right-side-div
+{
+  position:relative;
+  left:950px;
+}
+a{
+  text-decoration: none;
+  color: rgb(117, 117, 136);
+  padding:3px;
+}
+ul{
+  position:relative;
+  list-style-type: none;
+  padding: 15px;
+  margin: 0px;
+  left:1050px;
+}
+li{
+  display: inline;
+}
